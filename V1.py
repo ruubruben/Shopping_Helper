@@ -97,10 +97,10 @@ def convert_webp_to_jpg_and_create_pdf(store_name):
         image_list[0].save(output_pdf_path, save_all=True, append_images=image_list[1:])
         print(f"PDF succesvol gemaakt voor {store_name}: {output_pdf_path}")
 
-        for jpg_file_path in jpg_files:
-            if os.path.exists(jpg_file_path):
-                os.remove(jpg_file_path)
-                print(f"Converteerd .jpg bestand verwijderd: {jpg_file_path}")
+        # for jpg_file_path in jpg_files:
+        #     if os.path.exists(jpg_file_path):
+        #         os.remove(jpg_file_path)
+        #         print(f"Converteerd .jpg bestand verwijderd: {jpg_file_path}")
     else:
         print(f"Geen afbeeldingen om toe te voegen aan de PDF voor {store_name}.")
 

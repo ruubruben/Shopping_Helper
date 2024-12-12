@@ -1,0 +1,200 @@
+Title: Luxe stol
+New Price: 2.89
+Old Price: 3.99
+Discount: 1 KILO
+--------------------------------------------------
+Title: Courgette
+New Price: 0.49
+Old Price: 0.79
+Discount: PER STUK
+--------------------------------------------------
+Title: Woutkorn
+New Price: 1.49
+Old Price: 1.99
+Discount: -25%
+--------------------------------------------------
+Title: Campina Langlekker of Optimel drinkyoghurt
+New Price: 1.99
+Old Price: No Old Price
+Discount: TOT -45%
+--------------------------------------------------
+Title: Geraspte belegen Goudse kaas 48+
+New Price: 2.49
+Old Price: No Old Price
+Discount: XXL
+--------------------------------------------------
+Title: Zigeunergehaktschnitzels
+New Price: 4.99
+Old Price: No Old Price
+Discount: XXL
+--------------------------------------------------
+Title: Rookworst
+New Price: 0.99
+Old Price: No Old Price
+Discount: XXL
+--------------------------------------------------
+Title: Pinot Grigio delle Venezie
+New Price: 3.19
+Old Price: 4.19
+Discount: €1.- KORTING
+--------------------------------------------------
+Title: Lay’s Sensations
+New Price: 1.69
+Old Price: 2.29
+Discount: ACTIE
+--------------------------------------------------
+Title: Maggi ovenschotel
+New Price: 0.99
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Leffe blond, Hertog Jan of Tripel Karmeliet
+New Price: 3.99
+Old Price: 7.91
+Discount: ACTIE
+--------------------------------------------------
+Title: Anta
+New Price: 1.49
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Lipton Thee
+New Price: 1.39
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Lonka
+New Price: 1.59
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Verkade
+New Price: 1.49
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Hertog ijs
+New Price: 3.79
+Old Price: 7.58
+Discount: ACTIE
+--------------------------------------------------
+Title: Spa fruit
+New Price: 1.49
+Old Price: No Old Price
+Discount: ACTIE
+--------------------------------------------------
+Title: Celebrations
+New Price: 4.99
+Old Price: 6.65
+Discount: ACTIE
+--------------------------------------------------
+Title: Teisseire
+New Price: 2.99
+Old Price: 4.21
+Discount: ACTIE
+--------------------------------------------------
+Title: Toiletpapier
+New Price: 6.49
+Old Price: No Old Price
+Discount: XXL
+--------------------------------------------------
+Title: Frambozen
+New Price: 1.29
+Old Price: 1.79
+Discount: 125 GRAM
+--------------------------------------------------
+Title: Komkommer
+New Price: 0.39
+Old Price: 0.69
+Discount: PER STUK
+--------------------------------------------------
+Title: Soepgroenten of fijne soepgroenten
+New Price: 0.74
+Old Price: 0.99
+Discount: 25% KORTING
+--------------------------------------------------
+Title: Krieltjes
+New Price: 0.74
+Old Price: 0.99
+Discount: 25% KORTING
+--------------------------------------------------
+Title: Verse gevulde koeken
+New Price: 1.18
+Old Price: 1.77
+Discount: 2+1 GRATIS
+--------------------------------------------------
+Title: Pecannotenbroodjes
+New Price: 0.69
+Old Price: 1.38
+Discount: 1+1 GRATIS
+--------------------------------------------------
+Title: Speklapjes
+New Price: 4.99
+Old Price: 6.55
+Discount: -23%
+--------------------------------------------------
+Title: Vegan shoarma of vegan kipstukjes
+New Price: 1.99
+Old Price: No Old Price
+Discount: TOT -32%
+--------------------------------------------------
+Title: Kabeljauwburgers
+New Price: 3.99
+Old Price: 4.99
+Discount: -20%
+--------------------------------------------------
+Title: Cashewnoten
+New Price: 3.99
+Old Price: 5.28
+Discount: -24%
+--------------------------------------------------
+Title: Kleine kerstster
+New Price: 0.89
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Kerstster
+New Price: 2.49
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Grote kerstster
+New Price: 4.99
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Kerstcactus
+New Price: 6.99
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Hyacint
+New Price: 0.69
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Hyacint in glazen pot
+New Price: 9.99
+Old Price: No Old Price
+Discount: PER STUK
+--------------------------------------------------
+Title: Rode paprika
+New Price: 0.49
+Old Price: 0.69
+Discount: PER STUK
+--------------------------------------------------
+Title: Prei
+New Price: 1.0
+Old Price: 1.47
+Discount: 3 STUKS
+--------------------------------------------------
+Title: Avocado's in net
+New Price: 1.99
+Old Price: 2.99
+Discount: 700 GRAM
+--------------------------------------------------
+Title: Granaatappel
+New Price: 0.89
+Old Price: 1.29
+Discount: PER STUK
+--------------------------------------------------
