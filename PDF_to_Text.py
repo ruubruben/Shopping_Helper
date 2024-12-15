@@ -1,6 +1,6 @@
 from pdf2image import convert_from_path
 import easyocr
-import numpy as np 
+import numpy as np  
 
 # Path naar je PDF-bestand
 pdf_path = "/Users/r_middelman/Documents/WebScraper_Project/Albert-heijn/Albert-heijn_Folder.pdf"
