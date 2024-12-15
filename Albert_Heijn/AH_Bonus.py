@@ -11,10 +11,8 @@ url_template = "https://www.ah.nl/producten/{category}?kenmerk=bonus"
 # Headers for the request
 headers = {
     "X-Clientname": "ipad",
-    #"Authorization": "Bearer 109525384_ac7-44e1-a132-f28db7fc1fe8",
     "X-Application": "AHWEBSHOP",
     "X-Correlation-Id": "UNKNOWN-05C715BA-7AB3-4D50-BB82-A173177E9DBF",
-    "X-Fraud-Detection-Installation-Id": "3B35783A-4BFE-477F-98F9-A78DEEB24B70",
     "X-Accept-Language": "nl-NL",
     "X-Clientversion": "9.2.1",
     "Accept": "*/*",
@@ -120,6 +118,6 @@ with open(output_file_path, 'w') as outfile:
                 path_index += 2  # Skip every second path
             else:
                 outfile.write(f"{product.strip()} - No path found\n")
-# for filename in os.listdir('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn'):
-#     if filename.endswith('.txt') and filename != 'products.txt':
-#         os.remove(os.path.join('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn', filename))
+for filename in os.listdir('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn'):
+    if filename.endswith('.txt') and filename != 'products.txt':
+        os.remove(os.path.join('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn', filename))

@@ -1,0 +1,210 @@
+Title: FREEWAY Cola
+New Price: 0.99
+Old Price: 1.59
+Discount: -37%
+--------------------------------------------------
+Title: Gieser Wildeman stoofperen
+New Price: 1.99
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Spruiten
+New Price: 0.89
+Old Price: 1.49
+Discount: -40%
+--------------------------------------------------
+Title: Perssinaasappelen
+New Price: 1.99
+Old Price: 2.99
+Discount: -33%
+--------------------------------------------------
+Title: Hero jam minder zoet
+New Price: 1.79
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Glutenvrije baguettes, broodjes en crackers
+New Price: 1.99
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Verse sap
+New Price: 1.69
+Old Price: No old price
+Discount: TOT 32% KORTING
+--------------------------------------------------
+Title: Pistolets
+New Price: 1.49
+Old Price: 1.99
+Discount: -25%
+--------------------------------------------------
+Title: Danerolles
+New Price: 2.29
+Old Price: No old price
+Discount: VANAF
+--------------------------------------------------
+Title: Nescafé Gold oploskoffie
+New Price: 5.99
+Old Price: 8.45
+Discount: ACTIE
+--------------------------------------------------
+Title: Nescafé oploskoffie
+New Price: 1.99
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Nescafé Dolce Gusto
+New Price: 6.49
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Optimel drinkyoghurt
+New Price: 1.49
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Appelsientje of DubbelDrank
+New Price: 4.3
+Old Price: 6.45
+Discount: 2+1 GRATIS
+--------------------------------------------------
+Title: Kipfilets
+New Price: 8.99
+Old Price: No old price
+Discount: XXL
+--------------------------------------------------
+Title: Aardappel en rundvleessalade
+New Price: 1.99
+Old Price: 2.57
+Discount: -22%
+--------------------------------------------------
+Title: Ferrero
+New Price: 2.99
+Old Price: No old price
+Discount: VANAF
+--------------------------------------------------
+Title: Viennetta
+New Price: 0.99
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Hero Tova dessertsaus
+New Price: 1.49
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Jean Batôn
+New Price: 2.19
+Old Price: No old price
+Discount: VANAF
+--------------------------------------------------
+Title: Heinz of Wijko
+New Price: 1.79
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Heineken 0.0
+New Price: 4.99
+Old Price: 9.98
+Discount: 1+1 GRATIS
+--------------------------------------------------
+Title: Heineken of Affligem Blond
+New Price: 4.49
+Old Price: 5.99
+Discount: VANAF
+--------------------------------------------------
+Title: Martini
+New Price: 6.99
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Bordeaux AOP
+New Price: 3.19
+Old Price: 4.19
+Discount: €1.- KORTING
+--------------------------------------------------
+Title: Marlborough Sauvignon Blanc
+New Price: 4.99
+Old Price: 5.99
+Discount: €1.- KORTING
+--------------------------------------------------
+Title: Prosecco Spumante DOCG
+New Price: 5.99
+Old Price: 6.99
+Discount: €1.- KORTING
+--------------------------------------------------
+Title: Snacktomaten
+New Price: 1.49
+Old Price: 2.89
+Discount: -48%
+--------------------------------------------------
+Title: Groentenmix macaroni-spaghetti of nasi-bami
+New Price: 1.19
+Old Price: 1.69
+Discount: 450 GRAM
+--------------------------------------------------
+Title: Zespri Kiwi's gold
+New Price: 3.99
+Old Price: 4.99
+Discount: -20%
+--------------------------------------------------
+Title: Hollandse aardbeien
+New Price: 2.19
+Old Price: 2.99
+Discount: -26%
+--------------------------------------------------
+Title: Salademix
+New Price: 0.89
+Old Price: 1.19
+Discount: 200 GRAM
+--------------------------------------------------
+Title: FREEWAY Carpaccio
+New Price: 1.99
+Old Price: 3.29
+Discount: ACTIE
+--------------------------------------------------
+Title: Hagelslag
+New Price: 1.99
+Old Price: No old price
+Discount: TOT -39%
+--------------------------------------------------
+Title: Pistolets
+New Price: 1.49
+Old Price: 1.99
+Discount: -25%
+--------------------------------------------------
+Title: Mager rundergehakt
+New Price: 2.99
+Old Price: 4.39
+Discount: -31%
+--------------------------------------------------
+Title: Vegan nuggets en rulgehakt
+New Price: 1.29
+Old Price: No old price
+Discount: TOT -32%
+--------------------------------------------------
+Title: Californische walnoten
+New Price: 1.99
+Old Price: 2.57
+Discount: -22%
+--------------------------------------------------
+Title: Alle rode seizoenswijnen
+New Price: 2.99
+Old Price: 3.99
+Discount: -25%
+--------------------------------------------------
+Title: Deluxe rollades
+New Price: 0.79
+Old Price: 1.06
+Discount: PER 100 G VANAF
+--------------------------------------------------
+Title: Peperomia
+New Price: 2.79
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------
+Title: Mednilla
+New Price: 7.49
+Old Price: No old price
+Discount: ACTIE
+--------------------------------------------------

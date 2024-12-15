@@ -50,7 +50,7 @@ if lidl_data:
 
         # Output the list of product details
         if products:
-            with open("LIDL_Products.txt", "w") as file:
+            with open("Lidl/LIDL_Products.txt", "w") as file:
                 for product in products:
                     file.write(f"Title: {product['title']}\n")
                     file.write(f"New Price: {product['new_price']}\n")
