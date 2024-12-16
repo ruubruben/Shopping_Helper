@@ -11,3 +11,8 @@ it would also be nice if the code can acces the supermarket website to view the 
 with this we could also check things like callories so we can have the AI also give us the full callorie breakdown of the recipe.
 
 would be great if we can give the AI recipes we like so it creates things like it, also goes for recipes we dislike
+
+
+## things that work right now
+- Albert Heijn bonus scraping: get all the items that are on dicount and put them in a txt  file
+-lidl bonus scraping: same as AH but also gives the price of the items already

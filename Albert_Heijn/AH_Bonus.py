@@ -118,6 +118,7 @@ with open(output_file_path, 'w') as outfile:
                 path_index += 2  # Skip every second path
             else:
                 outfile.write(f"{product.strip()} - No path found\n")
+
 for filename in os.listdir('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn'):
     if filename.endswith('.txt') and filename != 'products.txt':
         os.remove(os.path.join('/Users/r_middelman/Documents/WebScraper_Project/Albert_Heijn', filename))
